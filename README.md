@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm atEaE.
+
 - 💻I'm C# and Go developer.
 - 🔌VSCode plugin author.
-- ⛺I love to camp.
 
 ---
 
