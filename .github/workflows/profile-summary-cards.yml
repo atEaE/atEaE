@@ -1,8 +1,9 @@
 name: GitHub my profile summary cards
 
 on:
-  schedule: # Runs at 4am JST
-    - cron: '30 19 * * *'
+# 更新タイミングを一旦任意のタイミングにしてみる
+#  schedule: # Runs at 4am JST
+#    - cron: '30 19 * * *'
   workflow_dispatch:
 
 jobs:
