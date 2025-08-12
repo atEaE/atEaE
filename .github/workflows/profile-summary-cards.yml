@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Update my github metrics
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           # token permissions: https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial#change-github-action-token
